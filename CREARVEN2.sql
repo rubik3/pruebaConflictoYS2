@@ -21,4 +21,6 @@ insert into tvendedor2 (COD_VEN, NOM_VEN, PORCEN, TITULACION) values
 ('001','CORZAN BLASCO M.C.', 10, 'SUPERIOR');
 insert into tvendedor2 (COD_VEN, NOM_VEN, PORCEN, TITULACION) values
 ('005', 'TORRES PAZ L.', 15, 'SUPERIOR');
+insert into tvendedor2 (COD_VEN, NOM_VEN, PORCEN, TITULACION) values
+('015', 'TORRES PAZ L.', 15, 'SUPERIOR');
 COMMIT;
