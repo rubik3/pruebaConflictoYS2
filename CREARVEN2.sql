@@ -8,7 +8,7 @@ TITULACION	CHAR(10),
 SUPERIOR	CHAR(3),
 CONSTRAINT CP_TVENDEDOR2 PRIMARY KEY (COD_VEN),
 CONSTRAINT CS_TVENDEDOR2 UNIQUE (nom_ven))--Cambio en constraint
-?
+/
 insert into tvendedor2 values
 ('002','PEREZ DIRAC A.', 5, 'ELEMENTAL', '001');
 insert into tvendedor2 values
